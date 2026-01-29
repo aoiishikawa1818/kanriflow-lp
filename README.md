@@ -28,7 +28,7 @@
 ---
 
 ## デモ
-- 公開URL：**https://aoiishikawa1818.github.io/kanriflow-lp/**
+- 公開URL：**https://aoiishikawa1818.github.io/cw-sample-01-copy-to-lp/**
 
 ---
 
