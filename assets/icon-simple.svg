@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Simple icon">
+  <rect x="16" y="16" width="128" height="128" rx="28" fill="#EEF2FF"></rect>
+  <rect x="44" y="46" width="72" height="14" rx="7" fill="#1D4ED8" opacity="0.9"></rect>
+  <rect x="44" y="72" width="92" height="12" rx="6" fill="#94A3B8" opacity="0.8"></rect>
+  <rect x="44" y="94" width="84" height="12" rx="6" fill="#94A3B8" opacity="0.7"></rect>
+  <rect x="44" y="116" width="62" height="12" rx="6" fill="#94A3B8" opacity="0.6"></rect>
+</svg>

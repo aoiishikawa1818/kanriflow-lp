@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Secure icon">
+  <rect x="16" y="16" width="128" height="128" rx="28" fill="#F0FDF4"></rect>
+  <path d="M80 44c18 0 32 8 32 8v26c0 28-22 44-32 48-10-4-32-20-32-48V52s14-8 32-8z" fill="#22C55E" opacity="0.18"></path>
+  <path d="M80 50c14 0 25 6 25 6v20c0 22-17 35-25 39-8-4-25-17-25-39V56s11-6 25-6z" fill="#FFFFFF" stroke="#22C55E" stroke-width="8" stroke-linejoin="round"></path>
+  <path d="M66 82l10 10 20-26" fill="none" stroke="#22C55E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>

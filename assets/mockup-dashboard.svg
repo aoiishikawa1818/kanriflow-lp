@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Dashboard mockup">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity="0.18"></feDropShadow>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="720" fill="#F8FAFC"></rect>
+  <g transform="translate(80,60)" filter="url(#shadow)">
+    <rect x="0" y="0" width="1040" height="600" rx="26" fill="#FFFFFF" stroke="#E2E8F0"></rect>
+    <rect x="0" y="0" width="1040" height="70" rx="26" fill="#F1F5F9"></rect>
+    <circle cx="44" cy="36" r="8" fill="#EF4444" opacity="0.9"></circle>
+    <circle cx="70" cy="36" r="8" fill="#F59E0B" opacity="0.9"></circle>
+    <circle cx="96" cy="36" r="8" fill="#22C55E" opacity="0.9"></circle>
+    <rect x="140" y="26" width="240" height="20" rx="10" fill="#E2E8F0"></rect>
+
+    <!-- sidebar -->
+    <rect x="0" y="70" width="220" height="530" rx="0" fill="#0F172A" opacity="0.92"></rect>
+    <rect x="26" y="110" width="168" height="14" rx="7" fill="#94A3B8" opacity="0.55"></rect>
+    <rect x="26" y="146" width="130" height="14" rx="7" fill="#94A3B8" opacity="0.45"></rect>
+    <rect x="26" y="182" width="150" height="14" rx="7" fill="#94A3B8" opacity="0.45"></rect>
+
+    <!-- content header -->
+    <rect x="260" y="110" width="320" height="28" rx="14" fill="#0F172A" opacity="0.08"></rect>
+    <rect x="260" y="156" width="520" height="18" rx="9" fill="#0F172A" opacity="0.06"></rect>
+
+    <!-- table/cards -->
+    <rect x="260" y="210" width="900" height="140" rx="20" fill="#F8FAFC" stroke="#E2E8F0"></rect>
+    <rect x="290" y="242" width="260" height="18" rx="9" fill="#CBD5E1"></rect>
+    <rect x="290" y="274" width="720" height="14" rx="7" fill="#E2E8F0"></rect>
+    <rect x="290" y="302" width="640" height="14" rx="7" fill="#E2E8F0"></rect>
+
+    <rect x="260" y="380" width="430" height="190" rx="20" fill="#F8FAFC" stroke="#E2E8F0"></rect>
+    <rect x="290" y="412" width="220" height="16" rx="8" fill="#CBD5E1"></rect>
+    <rect x="290" y="446" width="320" height="14" rx="7" fill="#E2E8F0"></rect>
+    <rect x="290" y="474" width="280" height="14" rx="7" fill="#E2E8F0"></rect>
+
+    <rect x="730" y="380" width="430" height="190" rx="20" fill="#F8FAFC" stroke="#E2E8F0"></rect>
+    <rect x="760" y="412" width="240" height="16" rx="8" fill="#CBD5E1"></rect>
+    <rect x="760" y="446" width="320" height="14" rx="7" fill="#E2E8F0"></rect>
+    <rect x="760" y="474" width="300" height="14" rx="7" fill="#E2E8F0"></rect>
+
+    <!-- CTA button -->
+    <rect x="860" y="110" width="220" height="44" rx="22" fill="#1D4ED8"></rect>
+    <text x="970" y="139" text-anchor="middle" font-size="16" font-family="system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Noto Sans JP', sans-serif" font-weight="700" fill="#FFFFFF">
+      新規案件を作成
+    </text>
+  </g>
+</svg>
